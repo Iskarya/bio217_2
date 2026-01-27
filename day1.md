@@ -36,3 +36,9 @@ testing to sync
 ## 2. Assembly
 
 Once the reads are filtered and cleaned by `fastp`, you can perform genome assemblies using `megahit`
+> `-1` : input forward reads  
+> `-2` : input reverse reads  
+> `-o` : output directory  
+
+To visualize the assembled contigs in `Bandage`, you need to convert the plain-text sequence file (`fasta`) into a fasta-like graph (`fastg`). To create a graph.
+open `final.contigs.fastg` in `Bandage`. Once it is loaded (which might take a moment), click on `Draw graph` to visualize the contigs in the assembly.
