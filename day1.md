@@ -18,6 +18,8 @@ testing to sync
 + cd
 + micromamba env list
 
+`logging into sunam account for the cluster and the micromamba environment that is appropriate is crucial.`
+
   # DAY 2 GUIDE
   ## 1. Quality control of raw reads
   run `fastqc` on several files named `*.fastq.gz`, which are compressed (zipped) sequencing reads files. 
