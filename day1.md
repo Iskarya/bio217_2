@@ -44,3 +44,8 @@ Once the reads are filtered and cleaned by `fastp`, you can perform genome assem
 
 To visualize the assembled contigs in `Bandage`, you need to convert the plain-text sequence file (`fasta`) into a fasta-like graph (`fastg`). To create a graph.
 open `final.contigs.fastg` in `Bandage`. Once it is loaded (which might take a moment), click on `Draw graph` to visualize the contigs in the assembly.![alt text](image.png)
+
+# DAY 3 GUIDE
+ ![ ](image-1.png)
+ me cry graph no work sad
+ 
