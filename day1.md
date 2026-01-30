@@ -48,4 +48,9 @@ open `final.contigs.fastg` in `Bandage`. Once it is loaded (which might take a m
 # DAY 3 GUIDE
  ![ ](image-1.png)
  me cry graph no work sad
- 
+ # DAY 4
+ ![alt text](image-2.png)
+ ![alt text](image-3.png)
+ ![alt text](image-4.png)
+ ![alt text](image-5.png)
+ ![alt text](image-6.png)
