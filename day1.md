@@ -63,3 +63,5 @@ open `final.contigs.fastg` in `Bandage`. Once it is loaded (which might take a m
  ![alt text](image-13.png)
  ![alt text](image-14.png)
  ![alt text](image-15.png)
+ ![alt text](image-16.png)
+ ![alt text](image-17.png)
