@@ -66,3 +66,8 @@ open `final.contigs.fastg` in `Bandage`. Once it is loaded (which might take a m
  ![alt text](image-16.png)
  ![alt text](image-17.png)
  ![alt text](image-18.png)
+ ![alt text](image-19.png)
+ ![alt text](image-20.png) core genome
+ ![alt text](image-21.png) bin accessory
+ ![alt text](image-22.png) singletons
+![alt text](image-23.png) amino acid sequence for gene cluster
