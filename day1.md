@@ -71,3 +71,8 @@ open `final.contigs.fastg` in `Bandage`. Once it is loaded (which might take a m
  ![alt text](image-21.png) bin accessory
  ![alt text](image-22.png) singletons
 ![alt text](image-23.png) amino acid sequence for gene cluster
+#DAY 7
+![alt text](image-24.png)
+![alt text](image-25.png)
+![alt text](image-26.png)
+![alt text](image-27.png)
